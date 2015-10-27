@@ -193,6 +193,22 @@ Water:
     exposure: 1570
 
 Fibrin:
+  - filename: 20140520 Fibrin Photoactivation/20140520 JCK20140519 10fold in fibrin 4mg_mL PLGA-PEG-Rhod Activation_20x 3.93sec 10 iterations 4 AU 1.lsm
+    objective: 20X
+    concentration: 4 mg/ml
+    exposure: 3930
+  - filename: 20140520 Fibrin Photoactivation/20140520 JCK20140519 10fold in fibrin 4mg_mL PLGA-PEG-Rhod Activation_20x 3.93sec 10 iterations 4 AU 2.lsm
+    objective: 20X
+    concentration: 4 mg/ml
+    exposure: 3930
+  - filename: 20140520 Fibrin Photoactivation/20140520 JCK20140519 10fold in fibrin 4mg_mL PLGA-PEG-Rhod Activation_20x 3.93sec 10 iterations 4 AU 3.lsm
+    objective: 20X
+    concentration: 4 mg/ml
+    exposure: 3930
+  - filename: 20140520 Fibrin Photoactivation/20140520 JCK20140519 10fold in fibrin 4mg_mL PLGA-PEG-Rhod Activation_20x 3.93sec 10 iterations 4 AU 4.lsm
+    objective: 20X
+    concentration: 4 mg/ml
+    exposure: 3930
   - filename: 20140401 Fibrin Photoactivation/20140401 4mg_ml fibrin JCK20140325 PLGA-PEG-Rhod Activation_40x 1.57sec 1.lsm
     objective: 40X
     concentration: 4 mg/ml
